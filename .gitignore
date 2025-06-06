@@ -10,6 +10,8 @@
 yarn.debug.log*
 yarn.error.log*
 npm-debug.log*
+/dev-temp
+/dist
 
 # Environment and secrets
 .env

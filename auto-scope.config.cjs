@@ -8,4 +8,5 @@ module.exports = {
   teamRepo: false, // Scan team files for usage and only enable hash/ID if module name is already used
   flattenCombis: [], //Flatten combinators, e.g. > becomes _a_
   overrideConfig: {},
+  copyFiles: ['public', 'src'],
 };
